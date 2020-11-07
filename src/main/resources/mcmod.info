@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ezmod",
+  "name": "ezmod",
+  "description": "A simple chat mod for Forge 1.12.2.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vypr"],
+  "credits": "The Forge Team.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
