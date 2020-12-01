@@ -31,7 +31,7 @@ You will find your built jar in the project directory, in `build/libs/`.
 [Latest Release](https://github.com/vypr-ysl/ezmod/releases/tag/1.0.0)
 
 ## Installation:
-Place the jar into `.mincraft/mods` and open minecraft. 
+Place the jar into `.minecraft/mods` and open minecraft. 
 
 ## Credits: 
 [The Forge Team](http://files.minecraftforge.net/) for [Forge 1.12.2](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html).
